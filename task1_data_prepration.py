@@ -124,3 +124,4 @@ print(df)
 df.to_csv('cleaned_sample_data.csv', index=False)
 print("\nData preparation completed. Cleaned file saved as 'cleaned_sample_data.csv'.")
 
+

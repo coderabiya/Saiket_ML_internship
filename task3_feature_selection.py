@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ===============================
 # Task 1: Data Preparation
 # Internship: Saiket Systems
@@ -105,7 +105,6 @@ print(selected_features)
 X_train_selected = pd.DataFrame(X_train_selected, columns=selected_features)
 X_test_selected = pd.DataFrame(X_test_selected, columns=selected_features)
 
-=======
 # ===============================
 # Task 1: Data Preparation
 # Internship: Saiket Systems
@@ -212,5 +211,4 @@ print(selected_features)
 X_train_selected = pd.DataFrame(X_train_selected, columns=selected_features)
 X_test_selected = pd.DataFrame(X_test_selected, columns=selected_features)
 
->>>>>>> 56e534a8176fa98af4985691fcf74db27f727666
 print("\nFeature Selection Completed Successfully ✅")

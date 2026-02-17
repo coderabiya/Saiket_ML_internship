@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ===============================
 # Task 1: Data Preparation
 # Internship: Saiket Systems
@@ -67,7 +67,7 @@ print(X_train.shape)
 print(X_test.shape)
 print(y_train.shape)
 print(y_test.shape)
-=======
+
 # ===============================
 # Task 1: Data Preparation
 # Internship: Saiket Systems
@@ -123,4 +123,4 @@ print(df)
 # Step 6: Save cleaned dataset to CSV
 df.to_csv('cleaned_sample_data.csv', index=False)
 print("\nData preparation completed. Cleaned file saved as 'cleaned_sample_data.csv'.")
->>>>>>> 56e534a8176fa98af4985691fcf74db27f727666
+

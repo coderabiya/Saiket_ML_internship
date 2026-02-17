@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ===============================
 # Task 1: Data Preparation
 # Internship: Saiket Systems
@@ -67,7 +67,7 @@ print(X_train.shape)
 print(X_test.shape)
 print(y_train.shape)
 print(y_test.shape)
-=======
+
 # ===============================
 # Task 1: Data Preparation
 # Internship: Saiket Systems
@@ -136,4 +136,4 @@ print(X_train.shape)
 print(X_test.shape)
 print(y_train.shape)
 print(y_test.shape)
->>>>>>> 56e534a8176fa98af4985691fcf74db27f727666
+
